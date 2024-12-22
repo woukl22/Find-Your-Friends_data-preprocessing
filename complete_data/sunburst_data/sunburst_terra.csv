@@ -1,0 +1,45 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,4823,Phoenix Directive  Alliance Reform and Ecosystem Growth Initiative,Alliance,PASSED,30.0,8.0,0.0,26.0,35.0,99.0,no_vote,0.35353535353535354
+1,4822,Launching the Phoenix Directive Treasury,Alliance,PASSED,50.0,0.0,0.0,16.0,34.0,100.0,yes,0.5
+2,4816,The Phoenix Directive  A Path Forward,CommunityPoolSpend,PASSED,29.0,19.0,0.0,17.0,35.0,100.0,no_vote,0.35
+3,4814,Sayve Protocol Community Grant,CommunityPoolSpend,REJECTED,3.0,42.0,0.0,24.0,32.0,101.0,no,0.4158415841584158
+4,4813,Terra Liquidity Alliance Proposal,CommunityPoolSpend,PASSED,53.0,0.0,0.0,16.0,31.0,100.0,yes,0.53
+5,4812,Whitelisting ATOM  LUNA LP Token as an Alliance Asset,Alliance,REJECTED,10.0,52.0,0.0,11.0,28.0,101.0,no,0.5148514851485149
+6,4811,Whitelisting LUNA  USDT Liquidity Pool as an Alliance Asset VOTE ON THIS PROPOSAL IGNORE 4810,Alliance,REJECTED,4.0,52.0,0.0,18.0,28.0,102.0,no,0.5098039215686274
+7,4803,A 5 Global Minimum Commission for Validators,Text,PASSED,51.0,12.0,2.0,19.0,22.0,106.0,yes,0.4811320754716981
+8,4797,TFL Delegation Equal Amount Delegation for Fairness,Text,REJECTED,25.0,44.0,0.0,28.0,17.0,114.0,no,0.38596491228070173
+9,4775,Orneio  Legal audit  Grant Proposal,CommunityPoolSpend,REJECTED,11.0,36.0,0.0,25.0,32.0,104.0,no,0.34615384615384615
+10,4765,Airdrop for Missed Protocols,CommunityPoolSpend,PASSED,41.0,3.0,0.0,22.0,35.0,101.0,yes,0.40594059405940597
+11,4744,YFoundry LUNA Integration into YFoundry Governance,CommunityPoolSpend,PASSED,37.0,7.0,0.0,30.0,29.0,103.0,yes,0.3592233009708738
+12,4743,Confio Funding Halt,Text,PASSED,30.0,9.0,1.0,31.0,31.0,102.0,abstain,0.30392156862745096
+13,4742,Chainscope Grant,CommunityPoolSpend,PASSED,29.0,20.0,0.0,23.0,30.0,102.0,no_vote,0.29411764705882354
+14,4739,Deploy LUNA to the stLUNA liquidity pool,CommunityPoolSpend,REJECTED,20.0,26.0,0.0,19.0,34.0,99.0,no_vote,0.3434343434343434
+15,4738,The Gate Contract,CommunityPoolSpend,REJECTED,18.0,19.0,0.0,29.0,34.0,100.0,no_vote,0.34
+16,4736,OFFICIAL Revitalizing Terra A Backbone Labs and Eris Protocol Collaboration Not a Grant,CommunityPoolSpend,PASSED,33.0,7.0,0.0,23.0,35.0,98.0,no_vote,0.35714285714285715
+17,4723,Terra  Confio CosmWasm Grant,CommunityPoolSpend,PASSED,46.0,4.0,0.0,8.0,41.0,99.0,yes,0.46464646464646464
+18,4722,Community Funding for TerraSpaces,CommunityPoolSpend,PASSED,45.0,7.0,0.0,17.0,32.0,101.0,yes,0.44554455445544555
+19,4716,Lion DAO Treasury Grant,CommunityPoolSpend,PASSED,41.0,0.0,0.0,31.0,31.0,103.0,yes,0.39805825242718446
+20,4715,Backbone Labs  Audit Request,CommunityPoolSpend,PASSED,53.0,3.0,0.0,18.0,28.0,102.0,yes,0.5196078431372549
+21,4714,Revised Redacted Grant Proposal,CommunityPoolSpend,REJECTED,9.0,47.0,0.0,23.0,26.0,105.0,no,0.44761904761904764
+22,4593,dUST Games Grant Proposal,CommunityPoolSpend,REJECTED,2.0,48.0,0.0,16.0,35.0,101.0,no,0.4752475247524752
+23,4592,Cavern Protocol Audit,CommunityPoolSpend,PASSED,49.0,6.0,0.0,11.0,34.0,100.0,yes,0.49
+24,4591,Hermes Protocol  Community Grant for public goods development,CommunityPoolSpend,REJECTED,7.0,33.0,0.0,21.0,38.0,99.0,no_vote,0.3838383838383838
+25,3796,ERIS Protocol Revised Grant Proposal,CommunityPoolSpend,PASSED,46.0,18.0,0.0,13.0,28.0,105.0,yes,0.4380952380952381
+26,3794,Terra Poker  Grant Proposal,Text,REJECTED,1.0,45.0,0.0,15.0,38.0,99.0,no,0.45454545454545453
+27,3665,Contro Protocol Grant Proposal,CommunityPoolSpend,PASSED,44.0,4.0,0.0,28.0,30.0,106.0,yes,0.41509433962264153
+28,3612,TFM Grant Proposal,CommunityPoolSpend,PASSED,63.0,6.0,0.0,20.0,23.0,112.0,yes,0.5625
+29,3547,Increase Terras Governance Quorum from 10 to 30,ParameterChange,PASSED,47.0,8.0,5.0,3.0,38.0,101.0,yes,0.46534653465346537
+30,3534,SCV  Terra Security Expansion Program Proposal,CommunityPoolSpend,PASSED,55.0,1.0,0.0,20.0,32.0,108.0,yes,0.5092592592592593
+31,3533,KnowhereSoil Protocol Grant Prosposal,CommunityPoolSpend,REJECTED,12.0,40.0,1.0,21.0,32.0,106.0,no,0.37735849056603776
+32,3460,ERIS Protocol Grant Proposal,CommunityPoolSpend,REJECTED,35.0,30.0,1.0,10.0,30.0,106.0,yes,0.330188679245283
+33,3186,Redacted Grant Proposal,CommunityPoolSpend,REJECTED,9.0,34.0,4.0,23.0,31.0,101.0,no,0.33663366336633666
+34,2616,Capapult Grant Proposal,CommunityPoolSpend,PASSED,30.0,31.0,9.0,16.0,25.0,111.0,no,0.27927927927927926
+35,1502,Social KYC oracle TYC,CommunityPoolSpend,PASSED,30.0,13.0,0.0,20.0,38.0,101.0,no_vote,0.37623762376237624
+36,1354,Terra Stablecoin Infrastructure Proposal by Stably,CommunityPoolSpend,REJECTED,25.0,34.0,0.0,25.0,24.0,108.0,no,0.3148148148148148
+37,979,Entropy Beacon Community Funding Grant,CommunityPoolSpend,PASSED,45.0,1.0,0.0,24.0,32.0,102.0,yes,0.4411764705882353
+38,929,Emergency Builder Allocation for Hurricane Protocol,CommunityPoolSpend,REJECTED,0.0,16.0,0.0,41.0,41.0,98.0,abstain,0.41836734693877553
+39,902,MetricsDAO OnChain Data Curation Grant,CommunityPoolSpend,PASSED,49.0,3.0,0.0,27.0,29.0,108.0,yes,0.4537037037037037
+40,880,Emergency Allocation for Momentum One  Hermes Protocol,Text,PASSED,52.0,3.0,0.0,17.0,32.0,104.0,yes,0.5
+41,874,Reduced validator minimum commission update 5 instead of 10,Text,REJECTED,26.0,20.0,5.0,34.0,24.0,109.0,abstain,0.3119266055045872
+42,870,Validator minimum commission update,Text,REJECTED,27.0,34.0,10.0,30.0,15.0,116.0,no,0.29310344827586204
+43,349,Upgrade Terra Classic To Reenable IBC,Text,PASSED,34.0,0.0,0.0,58.0,18.0,110.0,abstain,0.5272727272727272

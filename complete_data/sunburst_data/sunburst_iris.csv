@@ -1,0 +1,18 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,89,FindTruman  AIbased TexttoGame Creation Space Stage II,Text,PASSED,46.0,1.0,0.0,31.0,9.0,87.0,yes,0.5287356321839081
+1,84,Proposal for Creating a Community Pool and Promoting IRIS in Sports Stadiums and Teams,CommunityPoolSpend,REJECTED,1.0,6.0,13.0,3.0,41.0,64.0,no_vote,0.640625
+2,79,Milestone 3 Delivery Report on FindTruman for IRISnet,CommunityPoolSpend,PASSED,41.0,0.0,0.0,23.0,15.0,79.0,yes,0.5189873417721519
+3,78,IRISnet Persian Community Funding,CommunityPoolSpend,REJECTED,2.0,25.0,1.0,32.0,15.0,75.0,abstain,0.4266666666666667
+4,77,ReVote 2024 version ,Text,REJECTED,19.0,9.0,22.0,10.0,16.0,76.0,veto,0.2894736842105263
+5,76,Uptick on IRISnet Marketplace Upgrade and Joint Event with IRISnet for ICS721 Use Case,CommunityPoolSpend,PASSED,27.0,12.0,2.0,22.0,14.0,77.0,yes,0.35064935064935066
+6,74,Updated Milestone 2 Delivery Report on FindTruman for IRISnet ,CommunityPoolSpend,PASSED,29.0,20.0,0.0,21.0,13.0,83.0,yes,0.3493975903614458
+7,73,Milestone 2 Delivery Report on FindTruman for IRISnet,CommunityPoolSpend,REJECTED,17.0,22.0,0.0,27.0,11.0,77.0,abstain,0.35064935064935066
+8,52,Milestone 1 Deliverables Report on FindTruman for IRISnet,CommunityPoolSpend,REJECTED,25.0,24.0,0.0,29.0,10.0,88.0,abstain,0.32954545454545453
+9,48,FindTruman  Create a STEAMlike Storygameplay Cocreation Platform in Web3,Text,PASSED,17.0,13.0,0.0,14.0,27.0,71.0,no_vote,0.38028169014084506
+10,47,ATOM Airdrop ,Text,REJECTED,0.0,10.0,30.0,0.0,30.0,70.0,veto,0.42857142857142855
+11,41,SUI Airdrop for COSMOS holders ,Text,REJECTED,0.0,3.0,13.0,0.0,45.0,61.0,no_vote,0.7377049180327869
+12,28,Get ATOM Airdrop ,Text,REJECTED,0.0,6.0,15.0,1.0,43.0,65.0,no_vote,0.6615384615384615
+13,26,YEAH ATOM Airdrop ,Text,REJECTED,2.0,16.0,16.0,3.0,32.0,69.0,no_vote,0.463768115942029
+14,25,ATOM Airdrop ,Text,REJECTED,1.0,3.0,17.0,0.0,42.0,63.0,no_vote,0.6666666666666666
+15,24,ATOM Airdrop for COSMOS stakers,Text,REJECTED,1.0,1.0,15.0,0.0,46.0,63.0,no_vote,0.7301587301587301
+16,7,Slashing Param Change,ParameterChange,REJECTED,28.0,8.0,1.0,0.0,35.0,72.0,no_vote,0.4861111111111111

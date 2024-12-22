@@ -1,0 +1,44 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,191,Adds MerlinBTC to Kava Lend,ParameterChange,PASSED,18.0,0.0,0.0,15.0,20.0,53.0,no_vote,0.37735849056603776
+1,190,Kava Rise Payouts September 2024,Exec,PASSED,25.0,0.0,0.0,8.0,19.0,52.0,yes,0.4807692307692308
+2,189,Extend incentive reward periods for Kava Earn and Kava Lend,ParameterChange,PASSED,22.0,0.0,0.0,10.0,20.0,52.0,yes,0.4230769230769231
+3,188,Kava Rise Payouts August 2024,Exec,PASSED,26.0,0.0,0.0,7.0,23.0,56.0,yes,0.4642857142857143
+4,187,Enable Committee MsgVote for EIP712,ParameterChange,PASSED,24.0,0.0,0.0,11.0,23.0,58.0,yes,0.41379310344827586
+5,186,Kava Rise Payouts July 2024,Exec,PASSED,25.0,0.0,0.0,9.0,23.0,57.0,yes,0.43859649122807015
+6,185,Extend USDT deposit incentives for Kava Lend,ParameterChange,PASSED,30.0,1.0,0.0,8.0,22.0,61.0,yes,0.4918032786885246
+7,183,Kava Rise Payouts June 2024,Exec,PASSED,27.0,0.0,0.0,9.0,25.0,61.0,yes,0.4426229508196721
+8,180,Kava Rise payouts for May 2024,Exec,PASSED,26.0,0.0,0.0,9.0,24.0,59.0,yes,0.4406779661016949
+9,179,Kava Rise payouts for April 2024,Exec,PASSED,30.0,0.0,0.0,8.0,24.0,62.0,yes,0.4838709677419355
+10,176,Kava Rise payouts for February 2024,Exec,PASSED,32.0,0.0,0.0,14.0,21.0,67.0,yes,0.47761194029850745
+11,175,WAGMIwKAVA LP Authorization,Text,PASSED,32.0,1.0,0.0,13.0,21.0,67.0,yes,0.47761194029850745
+12,172,WAGMI Pool Creation on Kinetix,Exec,PASSED,21.0,0.0,0.0,18.0,21.0,60.0,yes,0.35
+13,171,cosmosauthzv1beta1MsgExec,Exec,PASSED,28.0,3.0,0.0,18.0,18.0,67.0,yes,0.417910447761194
+14,169,WAGMI Token Transfer,Text,PASSED,12.0,20.0,0.0,16.0,17.0,65.0,no,0.3076923076923077
+15,166,Supply Funds into Kava Mint,Exec,REJECTED,9.0,19.0,1.0,14.0,20.0,63.0,no_vote,0.31746031746031744
+16,158,Deposit Additional Funds into Kava Mint,ParameterChange,PASSED,26.0,6.0,0.0,4.0,24.0,60.0,yes,0.43333333333333335
+17,154,Kava Rise payouts for July 2023,CommunityPoolSpend,REJECTED,17.0,20.0,0.0,10.0,17.0,64.0,no,0.3125
+18,153,Increases USDt incentives removes various asset incentives in Kava Lend,ParameterChange,PASSED,37.0,2.0,0.0,9.0,15.0,63.0,yes,0.5873015873015873
+19,151,Supply Funds into Kava Mint,ParameterChange,PASSED,34.0,3.0,0.0,9.0,17.0,63.0,yes,0.5396825396825397
+20,149,Adds EIP712 allowed messages,ParameterChange,REJECTED,22.0,28.0,0.0,4.0,15.0,69.0,no,0.4057971014492754
+21,148,Kava Rise payouts for June 2023,CommunityPoolSpend,PASSED,42.0,1.0,0.0,9.0,16.0,68.0,yes,0.6176470588235294
+22,142,Deposit Funds into Kava Lend,Exec,PASSED,30.0,1.0,0.0,10.0,21.0,62.0,yes,0.4838709677419355
+23,141,Kava Horizon signaling proposal,ParameterChange,PASSED,30.0,9.0,0.0,11.0,14.0,64.0,yes,0.46875
+24,137,Add Kava Origin to Kava Infrastructure and Security Rewards,ParameterChange,PASSED,30.0,6.0,0.0,10.0,17.0,63.0,yes,0.47619047619047616
+25,135,Establish Kava Origin foundation,Text,PASSED,12.0,8.0,6.0,17.0,19.0,62.0,no_vote,0.3064516129032258
+26,128,Support Decentralization and Security on the Kava Network,Text,PASSED,31.0,4.0,0.0,5.0,22.0,62.0,yes,0.5
+27,126,Adjust incentive rewards and staking incentives,ParameterChange,PASSED,35.0,3.0,1.0,6.0,19.0,64.0,yes,0.546875
+28,125,Launch the 1000000 AKT Akash Open Cloud Kava Validator Campaign,Text,PASSED,33.0,0.0,0.0,11.0,19.0,63.0,yes,0.5238095238095238
+29,121,Kava 12 Software Upgrade Proposal,SoftwareUpgrade,REJECTED,24.0,22.0,0.0,0.0,18.0,64.0,yes,0.375
+30,120,Kava 12 Software Upgrade Proposal,SoftwareUpgrade,REJECTED,23.0,29.0,0.0,0.0,14.0,66.0,no,0.4393939393939394
+31,116,Remove Community Pool Funds From Earn Vault,CommunityPoolSpend,REJECTED,27.0,2.0,0.0,8.0,22.0,59.0,yes,0.4576271186440678
+32,104,Adjusts Kava incentive rewards for Swap Lend and Boost and KAVA stakers Adds parameters for Multichain Dai USDT to earn module ,ParameterChange,PASSED,38.0,6.0,1.0,4.0,15.0,64.0,yes,0.59375
+33,101,Ethermint Funding Proposal For Past Development Addressed from The Evmos Community to The Kava Community,CommunityPoolSpend,REJECTED,5.0,20.0,0.0,19.0,20.0,64.0,no,0.3125
+34,100,Kava 11 Software Upgrade Proposal,SoftwareUpgrade,REJECTED,20.0,30.0,0.0,0.0,16.0,66.0,no,0.45454545454545453
+35,89,Adjust annual inflation for Kava stakers from 17 to 135,ParameterChange,PASSED,24.0,4.0,1.0,4.0,25.0,58.0,no_vote,0.43103448275862066
+36,88,Adjust annual inflation for Kava stakers from 20 to 17,ParameterChange,REJECTED,9.0,23.0,0.0,2.0,25.0,59.0,no_vote,0.423728813559322
+37,82,Adjust UST in Kava Mint,ParameterChange,REJECTED,29.0,6.0,1.0,7.0,21.0,64.0,yes,0.453125
+38,80,Kava 10 Software Upgrade Proposal,SoftwareUpgrade,REJECTED,19.0,35.0,0.0,1.0,14.0,69.0,no,0.5072463768115942
+39,78,Create Developer Incentives Fund via the community pool,ParameterChange,PASSED,38.0,6.0,0.0,4.0,18.0,66.0,yes,0.5757575757575758
+40,75,Turn off AKT Stake drop,ParameterChange,PASSED,21.0,13.0,0.0,13.0,19.0,66.0,yes,0.3181818181818182
+41,73,Kava LoanWars Payouts,CommunityPoolSpend,PASSED,29.0,5.0,0.0,9.0,20.0,63.0,yes,0.4603174603174603
+42,71,Kava Swap incentivized testnet winner payouts,CommunityPoolSpend,REJECTED,4.0,19.0,0.0,13.0,24.0,60.0,no_vote,0.4

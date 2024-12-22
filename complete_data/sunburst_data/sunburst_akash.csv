@@ -1,0 +1,51 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,273,Akash Network Provider Incentives Pilot 02,CommunityPoolSpend,PASSED,62.0,0.0,0.0,6.0,13.0,81.0,yes,0.7654320987654321
+1,272,2024 Q4 Events Resourcing Proposal,CommunityPoolSpend,PASSED,56.0,0.0,0.0,11.0,14.0,81.0,yes,0.691358024691358
+2,271,FINAL PAYMENT FOR COMPLETED MILESTONES Revised Adding Full Akash Support  Features to the Cosmos Metamask Snap,CommunityPoolSpend,PASSED,51.0,0.0,0.0,16.0,15.0,82.0,yes,0.6219512195121951
+3,270,Akash Payments Console 20 Funding Request,CommunityPoolSpend,PASSED,55.0,0.0,0.0,6.0,15.0,76.0,yes,0.7236842105263158
+4,269,2024 Q4 Community Support Proposal,CommunityPoolSpend,PASSED,58.0,0.0,0.0,5.0,15.0,78.0,yes,0.7435897435897436
+5,268,Upgrading to COSMOS v047,CommunityPoolSpend,PASSED,73.0,0.0,0.0,0.0,10.0,83.0,yes,0.8795180722891566
+6,266,FINAL PAYMENT FOR COMPLETED MILESTONES Adding Full Akash Support  Features to the Cosmos Metamask Snap,CommunityPoolSpend,REJECTED,8.0,50.0,0.0,9.0,12.0,79.0,no,0.6329113924050633
+7,263,Developer Onboarding Funding Proposal 2 Zealy,CommunityPoolSpend,PASSED,66.0,1.0,0.0,9.0,8.0,84.0,yes,0.7857142857142857
+8,261,Verifiable Compute for Akash Network,CommunityPoolSpend,PASSED,57.0,7.0,0.0,10.0,9.0,83.0,yes,0.6867469879518072
+9,260,2024 Q3 Events Resourcing Proposal,CommunityPoolSpend,PASSED,66.0,0.0,0.0,4.0,11.0,81.0,yes,0.8148148148148148
+10,259,2024 Q3 Community Support Proposal,CommunityPoolSpend,PASSED,66.0,0.0,0.0,4.0,11.0,81.0,yes,0.8148148148148148
+11,258,Effortless Deployment from GitHubGitLabBitbucket to the Akash Network on Akash Console,CommunityPoolSpend,PASSED,67.0,0.0,0.0,4.0,12.0,83.0,yes,0.8072289156626506
+12,255,Community Funding for Praetor Acquisition,CommunityPoolSpend,PASSED,59.0,0.0,0.0,6.0,14.0,79.0,yes,0.7468354430379747
+13,254,2024 Q2 Akash Events Resourcing Proposal,CommunityPoolSpend,PASSED,63.0,0.0,0.0,5.0,13.0,81.0,yes,0.7777777777777778
+14,253,Streamline OpenSource LLMs Deployment from HuggingFace onto Akash,CommunityPoolSpend,REJECTED,5.0,58.0,0.0,12.0,10.0,85.0,no,0.6823529411764706
+15,252,Coinbase Learning Rewards and Quests,CommunityPoolSpend,PASSED,61.0,5.0,0.0,12.0,9.0,87.0,yes,0.7011494252873564
+16,250,Akash Accelerate 2024,CommunityPoolSpend,PASSED,70.0,0.0,0.0,3.0,11.0,84.0,yes,0.8333333333333334
+17,247,Developer Onboarding Funding Proposal Zealy,CommunityPoolSpend,PASSED,64.0,0.0,0.0,4.0,13.0,81.0,yes,0.7901234567901234
+18,246,Akash Network Provider Incentive Pilot,CommunityPoolSpend,PASSED,77.0,0.0,0.0,2.0,8.0,87.0,yes,0.8850574712643678
+19,245,2024 Q1 Community Support Proposal,CommunityPoolSpend,PASSED,67.0,0.0,0.0,1.0,14.0,82.0,yes,0.8170731707317073
+20,244,2024 Q1 Akash Events Resourcing Proposal,CommunityPoolSpend,PASSED,61.0,0.0,0.0,14.0,9.0,84.0,yes,0.7261904761904762
+21,243,2024 Q1 Community Support Proposal,CommunityPoolSpend,PASSED,70.0,0.0,0.0,5.0,9.0,84.0,yes,0.8333333333333334
+22,242,Creating an automated auditor with opensource tooling  misc contributions to Cloudmos,CommunityPoolSpend,PASSED,72.0,1.0,0.0,5.0,9.0,87.0,yes,0.8275862068965517
+23,236,AI Assisted Deployment Tool on AkashCloudmos,CommunityPoolSpend,REJECTED,38.0,26.0,0.0,4.0,12.0,80.0,yes,0.475
+24,235,Incentivized AKT Lending Pool on Nitron,CommunityPoolSpend,REJECTED,3.0,28.0,0.0,25.0,21.0,77.0,no,0.36363636363636365
+25,234,Akash  Thumper  AI Foundational Model,CommunityPoolSpend,PASSED,56.0,0.0,0.0,14.0,11.0,81.0,yes,0.691358024691358
+26,233,Reduce Maximum Block Size,ParameterChange,REJECTED,17.0,47.0,1.0,5.0,13.0,83.0,no,0.5662650602409639
+27,232,2023 Q4 Community Support Proposal,CommunityPoolSpend,PASSED,61.0,0.0,0.0,4.0,15.0,80.0,yes,0.7625
+28,230,AkashNetwork comprehensive website Revamp Proposal,CommunityPoolSpend,PASSED,57.0,0.0,0.0,7.0,15.0,79.0,yes,0.7215189873417721
+29,229,Adding Full Akash Support  Features to the Cosmos Metamask Snap,CommunityPoolSpend,PASSED,69.0,0.0,0.0,4.0,11.0,84.0,yes,0.8214285714285714
+30,216,Community Funding for Cloudmos Acquisition,CommunityPoolSpend,PASSED,70.0,0.0,0.0,4.0,10.0,84.0,yes,0.8333333333333334
+31,208,2023 Q3 Community Support Proposal,CommunityPoolSpend,PASSED,55.0,0.0,0.0,5.0,17.0,77.0,yes,0.7142857142857143
+32,207,2023 Q3 Akash Events Resourcing Proposal,CommunityPoolSpend,PASSED,48.0,0.0,0.0,6.0,22.0,76.0,yes,0.631578947368421
+33,206, ATOM Airdrop ,CommunityPoolSpend,REJECTED,0.0,0.0,36.0,0.0,33.0,69.0,veto,0.5217391304347826
+34,200,2023 Akash Events Resourcing Proposal,CommunityPoolSpend,PASSED,50.0,6.0,0.0,7.0,16.0,79.0,yes,0.6329113924050633
+35,199,Akash Hackathon Proposal,CommunityPoolSpend,PASSED,59.0,1.0,0.0,5.0,14.0,79.0,yes,0.7468354430379747
+36,187,2023 Akash Events Resourcing Proposal,Text,PASSED,50.0,6.0,0.0,8.0,15.0,79.0,yes,0.6329113924050633
+37,185,Community Funding request for Cloudmos,CommunityPoolSpend,REJECTED,12.0,32.0,0.0,24.0,12.0,80.0,no,0.4
+38,182,Community Funding request for Praetor,CommunityPoolSpend,PASSED,55.0,0.0,0.0,7.0,17.0,79.0,yes,0.6962025316455697
+39,63,censure allnodes for insecure VaaS practices,Text,PASSED,35.0,2.0,0.0,9.0,27.0,73.0,yes,0.4794520547945205
+40,52,Community Funding request for Luna part 2,CommunityPoolSpend,PASSED,58.0,0.0,0.0,4.0,16.0,78.0,yes,0.7435897435897436
+41,31,Akash Cosmos Zero Offset Akash Validator Set Signaling proposal,Text,REJECTED,14.0,39.0,1.0,15.0,13.0,82.0,no,0.47560975609756095
+42,28,Community Funding request for Luna,CommunityPoolSpend,PASSED,51.0,0.0,0.0,2.0,23.0,76.0,yes,0.6710526315789473
+43,26,Increase the minimum commission rate to 5,Text,PASSED,34.0,7.0,0.0,7.0,26.0,74.0,yes,0.4594594594594595
+44,24,Akash CAB funding 3,CommunityPoolSpend,PASSED,57.0,0.0,0.0,0.0,18.0,75.0,yes,0.76
+45,23,Proposal to transition the CAB into the Akash Accelerator,Text,PASSED,41.0,3.0,0.0,9.0,21.0,74.0,yes,0.5540540540540541
+46,22,Fund Moultrie Audits,CommunityPoolSpend,PASSED,30.0,1.0,0.0,19.0,24.0,74.0,yes,0.40540540540540543
+47,16,Akash CAB funding 2,CommunityPoolSpend,PASSED,44.0,0.0,0.0,5.0,23.0,72.0,yes,0.6111111111111112
+48,14,Increase MaxValidators value,ParameterChange,PASSED,32.0,12.0,0.0,0.0,26.0,70.0,yes,0.45714285714285713
+49,9,Developer Program and Community Awards,CommunityPoolSpend,PASSED,34.0,19.0,0.0,1.0,20.0,74.0,yes,0.4594594594594595

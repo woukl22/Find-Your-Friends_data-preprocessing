@@ -1,0 +1,44 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,227,Recover user funds stuck in community pool,CommunityPoolSpend,PASSED,63.0,0.0,0.0,2.0,31.0,96.0,yes,0.65625
+1,226,Round2 Gravity Growth and Sustainability Grant,CommunityPoolSpend,PASSED,64.0,0.0,0.0,7.0,26.0,97.0,yes,0.6597938144329897
+2,217,COMMUNITY SPEND BOUNTY and INCENTIVES,CommunityPoolSpend,PASSED,63.0,0.0,0.0,5.0,28.0,96.0,yes,0.65625
+3,214,Add ARCH token to Gravity Bridge,IBC,REJECTED,27.0,42.0,0.0,3.0,25.0,97.0,no,0.4329896907216495
+4,210,Gravity Bridge Bug Bounty 1,CommunityPoolSpend,PASSED,72.0,2.0,0.0,5.0,21.0,100.0,yes,0.72
+5,193,Enhancing Gravity Bridge through AlphaGrowth BD,CommunityPoolSpend,PASSED,31.0,39.0,0.0,19.0,11.0,100.0,no,0.39
+6,180,Fund development of auction module,CommunityPoolSpend,PASSED,87.0,1.0,0.0,8.0,6.0,102.0,yes,0.8529411764705882
+7,173,Bug Bounty Vault Proposal by Hats Finance,Text,PASSED,64.0,0.0,0.0,27.0,9.0,100.0,yes,0.64
+8,170,Gravity Growth and Sustainability Grant,CommunityPoolSpend,PASSED,79.0,3.0,0.0,8.0,11.0,101.0,yes,0.7821782178217822
+9,157,Proposal for external incentives to Cresecent DEX new LP SHIBgrvbCRE,CommunityPoolSpend,PASSED,66.0,5.0,0.0,20.0,10.0,101.0,yes,0.6534653465346535
+10,156,Proposal for external incentives to Cresecent DEX LP bCREGRAV,CommunityPoolSpend,PASSED,78.0,0.0,0.0,14.0,9.0,101.0,yes,0.7722772277227723
+11,153,Gravity Bridge to go Carbon Neutral CosmosZERO Followon to Proposal 108,Text,PASSED,48.0,23.0,2.0,22.0,7.0,102.0,yes,0.47058823529411764
+12,126,Pool Incentives for GRAVUSK on Kujira,CommunityPoolSpend,PASSED,76.0,11.0,1.0,19.0,1.0,108.0,yes,0.7037037037037037
+13,121,Recover user funds stuck in community pool,CommunityPoolSpend,PASSED,102.0,0.0,0.0,2.0,1.0,105.0,yes,0.9714285714285714
+14,120,Setup Comdex IBC AutoForwarding,IBC,REJECTED,30.0,78.0,0.0,0.0,0.0,108.0,no,0.7222222222222222
+15,119,Add CMST Metadata to Gravity Bridge,IBC,REJECTED,28.0,80.0,0.0,0.0,0.0,108.0,no,0.7407407407407407
+16,118,Add CMDX Metadata to Gravity Bridge,IBC,REJECTED,28.0,80.0,0.0,0.0,0.0,108.0,no,0.7407407407407407
+17,108,Gravity Bridge to go Carbon Neutral,CommunityPoolSpend,PASSED,39.0,29.0,0.0,36.0,2.0,106.0,yes,0.36792452830188677
+18,107,Reduce Inflation,ParameterChange,PASSED,80.0,4.0,0.0,21.0,2.0,107.0,yes,0.7476635514018691
+19,106,Increase minimum commission to 10,Text,PASSED,76.0,12.0,0.0,17.0,2.0,107.0,yes,0.7102803738317757
+20,102,Add USTC Metadata to Gravity Bridge,IBC,PASSED,77.0,4.0,0.0,19.0,2.0,102.0,yes,0.7549019607843137
+21,98,Setup LUNC IBC AutoForwarding,IBC,REJECTED,28.0,75.0,0.0,5.0,0.0,108.0,no,0.6944444444444444
+22,97,Setup USTC IBC AutoForwarding,IBC,REJECTED,28.0,74.0,0.0,6.0,0.0,108.0,no,0.6851851851851852
+23,94,Setup ISLM IBC AutoForwarding,IBC,REJECTED,25.0,82.0,0.0,1.0,0.0,108.0,no,0.7592592592592593
+24,80,HAQQ testnet token ISLMT  metadata,IBC,PASSED,73.0,16.0,0.0,19.0,0.0,108.0,yes,0.6759259259259259
+25,78,Proposal for external incentives to Cresecent DEX LPs bCREGRAV and AtomUSDCgrv,CommunityPoolSpend,PASSED,101.0,2.0,0.0,5.0,0.0,108.0,yes,0.9351851851851852
+26,67,Gravity Growth Grant 3 Cross Dex Yield Finder,CommunityPoolSpend,PASSED,104.0,0.0,0.0,1.0,1.0,106.0,yes,0.9811320754716981
+27,64,Advancing Ethermint GTM and Engineering Plan for the Ethermint Chain,CommunityPoolSpend,PASSED,105.0,1.0,0.0,2.0,0.0,108.0,yes,0.9722222222222222
+28,54,5M Grav spend for GRAVbCRE LP incentives,CommunityPoolSpend,PASSED,87.0,1.0,0.0,3.0,10.0,101.0,yes,0.8613861386138614
+29,53,Formation of ICS 721  NFT workgroup,CommunityPoolSpend,PASSED,92.0,0.0,0.0,1.0,8.0,101.0,yes,0.9108910891089109
+30,52,GRAV incentives for ATOM and OSMO gUSDC liquidity pools,CommunityPoolSpend,PASSED,106.0,1.0,0.0,0.0,1.0,108.0,yes,0.9814814814814815
+31,47,Kinesis AMM shared incentivesCommunity Spend to provide liquidity incentives,CommunityPoolSpend,PASSED,104.0,1.0,0.0,3.0,0.0,108.0,yes,0.9629629629629629
+32,39,PROPOSAL to fund Gravity Group 1 Community Management,CommunityPoolSpend,PASSED,100.0,1.0,0.0,3.0,2.0,106.0,yes,0.9433962264150944
+33,38,Renew Gravity liquidity incentives to GRAVOSMO Osmosis pool 625,CommunityPoolSpend,PASSED,107.0,0.0,0.0,1.0,0.0,108.0,yes,0.9907407407407407
+34,35,GRAV incentives for ATOM and OSMO gUSDC liquidity pools,CommunityPoolSpend,PASSED,107.0,0.0,0.0,1.0,0.0,108.0,yes,0.9907407407407407
+35,33,Matching GRAVIRIS incentives for Liquidity Pools on Coinswap,CommunityPoolSpend,PASSED,95.0,6.0,0.0,4.0,1.0,106.0,yes,0.8962264150943396
+36,32,Proposal for Gravity Grant RFP 1 UIGUI,CommunityPoolSpend,PASSED,85.0,2.0,0.0,2.0,11.0,100.0,yes,0.85
+37,29,Proposal for Gravity Grant RFP 1 UIGUI,CommunityPoolSpend,PASSED,86.0,1.0,0.0,0.0,13.0,100.0,yes,0.86
+38,28,Proposal for Gravity Grant RFP 1 UIGUI,CommunityPoolSpend,PASSED,96.0,0.0,0.0,0.0,6.0,102.0,yes,0.9411764705882353
+39,25,Proposal for external incentives for GRAV liquidity providers,CommunityPoolSpend,PASSED,105.0,2.0,0.0,0.0,0.0,107.0,yes,0.9813084112149533
+40,23,Provide Liqudity,Text,REJECTED,12.0,40.0,19.0,4.0,22.0,97.0,no,0.41237113402061853
+41,22,Balance out new validators helping the network,Airdrop,REJECTED,13.0,43.0,23.0,1.0,19.0,99.0,no,0.43434343434343436
+42,20,register HUAHUA token metadata,IBC,REJECTED,39.0,54.0,0.0,4.0,4.0,101.0,no,0.5346534653465347

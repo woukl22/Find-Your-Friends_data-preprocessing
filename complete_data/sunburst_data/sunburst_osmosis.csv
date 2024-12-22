@@ -1,0 +1,209 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,850,Whitelist Ark Protocol Developer Wallets for InterChain NFT Contracts,ParameterChange,PASSED,36.0,2.0,0.0,39.0,40.0,117.0,no_vote,0.3418803418803419
+1,841,Osmosis Representation at Crypto Summit del Caribe II,CommunityPoolSpend,PASSED,27.0,21.0,0.0,37.0,33.0,118.0,abstain,0.3135593220338983
+2,834,Update Incentives in line with inflation reduction,UpdatePoolIncentives,REJECTED,17.0,51.0,1.0,24.0,26.0,119.0,no,0.42857142857142855
+3,833,Osmosis Inflation Reduction proposal,ParameterChange,REJECTED,17.0,49.0,1.0,26.0,26.0,119.0,no,0.4117647058823529
+4,812,Claw Back SAIL DAO Funding,unknown,PASSED,57.0,10.0,2.0,27.0,26.0,122.0,yes,0.4672131147540984
+5,801,Whitelist OBridge Deployments Address to Upload Contract,ParameterChange,PASSED,68.0,5.0,0.0,13.0,32.0,118.0,yes,0.576271186440678
+6,798,Deployment of stOSMO liquidity from stableswap into Locust vault,CommunityPoolSpend,PASSED,45.0,1.0,0.0,38.0,34.0,118.0,yes,0.3813559322033898
+7,789,Whitelist Lion DAO Deployment Address to Upload Contracts,ParameterChange,PASSED,61.0,9.0,0.0,19.0,30.0,119.0,yes,0.5126050420168067
+8,788,Whitelist Gelotto Address for PampIT  Games,ParameterChange,PASSED,63.0,6.0,0.0,13.0,36.0,118.0,yes,0.5338983050847458
+9,786,Matching incentives for Frax assets on Osmosis with Picasso,CommunityPoolSpend,PASSED,25.0,13.0,0.0,53.0,29.0,120.0,abstain,0.44166666666666665
+10,785,Whitelist Address for Mad Pots Game Deployment,ParameterChange,PASSED,54.0,2.0,0.0,38.0,26.0,120.0,yes,0.45
+11,784,Review Downtime Jailing Parameters,ParameterChange,PASSED,60.0,11.0,0.0,17.0,31.0,119.0,yes,0.5042016806722689
+12,780,Implement CopyStaking for Strides Osmosis Delegations,unknown,PASSED,59.0,7.0,0.0,17.0,35.0,118.0,yes,0.5
+13,772,Demand return of IonDAO funding,unknown,PASSED,48.0,0.0,0.0,40.0,31.0,119.0,yes,0.40336134453781514
+14,771,Reevaluation of Liquid Staked OSMO held by the Community Pool stkOSMO Liquidity,Text,PASSED,62.0,5.0,0.0,28.0,26.0,121.0,yes,0.512396694214876
+15,770,Reevaluation of Liquid Staked OSMO held by the Community Pool qOSMO Liquidity,Text,PASSED,58.0,5.0,0.0,33.0,26.0,122.0,yes,0.47540983606557374
+16,769,Reevaluation of Liquid Staked OSMO held by the Community Pool stOSMO concentration,CommunityPoolSpend,PASSED,67.0,2.0,0.0,28.0,26.0,123.0,yes,0.5447154471544715
+17,767,Reduce Pool Creation Fee to 20 USDC,ParameterChange,PASSED,75.0,7.0,1.0,15.0,26.0,124.0,yes,0.6048387096774194
+18,764,proposal 0,SoftwareUpgrade,REJECTED,2.0,38.0,50.0,2.0,28.0,120.0,veto,0.4166666666666667
+19,755,Add authz as ICA host allowed message,ParameterChange,PASSED,73.0,5.0,0.0,15.0,28.0,121.0,yes,0.6033057851239669
+20,742,Fix whitewhaleosmosis cosmwasm pool interface,ParameterChange,PASSED,66.0,15.0,0.0,13.0,26.0,120.0,yes,0.55
+21,741,Whitelist Address for Banana Vaults Deployment,ParameterChange,PASSED,60.0,13.0,0.0,22.0,25.0,120.0,yes,0.5
+22,712,Allocate 7m OSMO to the OGP Multisig to Fund Market Making Operations for 12 Months,CommunityPoolSpend,PASSED,51.0,18.0,0.0,28.0,24.0,121.0,yes,0.4214876033057851
+23,707,Allocate 7m OSMO to the OGP Multisig to Fund Market Making Operations for 12 Months,CommunityPoolSpend,FAILED,19.0,20.0,1.0,36.0,40.0,116.0,no_vote,0.3448275862068966
+24,706,Osmosis Grants Program v3 Renewal,CommunityPoolSpend,FAILED,43.0,4.0,0.0,30.0,41.0,118.0,yes,0.3644067796610169
+25,702,Sail DAO,CommunityPoolSpend,FAILED,70.0,1.0,0.0,20.0,27.0,118.0,yes,0.5932203389830508
+26,700,Neutron  Osmosis Alignment,CommunityPoolSpend,PASSED,32.0,14.0,0.0,30.0,40.0,116.0,no_vote,0.3448275862068966
+27,694,Sail with the Whale,CommunityPoolSpend,REJECTED,45.0,36.0,0.0,30.0,19.0,130.0,yes,0.34615384615384615
+28,688,Signaling Proposal Verify TORI Token as a Verified Asset on Osmosis,Text,PASSED,65.0,11.0,0.0,18.0,26.0,120.0,yes,0.5416666666666666
+29,666,Margined Protocol Whitelisted Address for Deployment of Power Perpetuals Contracts,ParameterChange,PASSED,63.0,0.0,0.0,27.0,29.0,119.0,yes,0.5294117647058824
+30,655,Deposit 350K OSMO to the Levana Osmo Liquidity Pool,CommunityPoolSpend,PASSED,42.0,10.0,0.0,47.0,23.0,122.0,abstain,0.38524590163934425
+31,652,Update medasdigital1 07tendermint2372 client,ClientUpdate,PASSED,64.0,0.0,1.0,32.0,23.0,120.0,yes,0.5333333333333333
+32,650,Deploy 2M OSMO to an ampOSMO Supercharged Pool,CommunityPoolSpend,REJECTED,9.0,43.0,0.0,44.0,24.0,120.0,abstain,0.36666666666666664
+33,645,Reduce Maximum Block Size,ParameterChange,REJECTED,56.0,29.0,0.0,16.0,20.0,121.0,yes,0.4628099173553719
+34,641,Deploy 20M OSMO to the stOSMO Pool,CommunityPoolSpend,PASSED,55.0,26.0,0.0,15.0,24.0,120.0,yes,0.4583333333333333
+35,640,Allow Genie contracts to be uploaded,ParameterChange,PASSED,47.0,12.0,2.0,32.0,26.0,119.0,yes,0.3949579831932773
+36,639,Mutual token swap between Osmosis and MantaDAO,CommunityPoolSpend,PASSED,29.0,12.0,0.0,54.0,25.0,120.0,abstain,0.45
+37,638,Remove Incentives from NonStrategic Pools,Text,PASSED,75.0,12.0,1.0,15.0,22.0,125.0,yes,0.6
+38,635,Signaling proposal to match external XPLA incentives to XPLAOSMO pool 1173 on Osmosis AMM,Text,REJECTED,14.0,55.0,1.0,31.0,23.0,124.0,no,0.4435483870967742
+39,620,Upload Alpine Pay Core contract,StoreCode,REJECTED,6.0,40.0,2.0,37.0,33.0,118.0,no,0.3389830508474576
+40,610,Expedited Repair migration for already approved CL pools,unknown,PASSED,44.0,47.0,0.0,11.0,24.0,126.0,no,0.373015873015873
+41,605,Signaling Proposal Remove Unverified Status from Gelotto GLTO Token,Text,PASSED,41.0,13.0,0.0,41.0,27.0,122.0,yes,0.3360655737704918
+42,593,Community Spend Match Kava Rise Rewards for three months,CommunityPoolSpend,PASSED,65.0,6.0,0.0,21.0,28.0,120.0,yes,0.5416666666666666
+43,577,Signaling Proposal for WHALEOSMO External Incentive Match Extension,Text,REJECTED,4.0,58.0,0.0,24.0,32.0,118.0,no,0.4915254237288136
+44,576,Add NOMOSMO 882 to External Incentive Matching program,Text,PASSED,19.0,37.0,0.0,35.0,27.0,118.0,no,0.3135593220338983
+45,572,Signaling Proposal Matching External QSR incentives to QSROSMO pool 1060 on Osmosis AMM,Text,PASSED,71.0,4.0,0.0,16.0,28.0,119.0,yes,0.5966386554621849
+46,569,Signaling Proposal for WHALEOSMO into Regular Incentive Program on Osmosis,Text,REJECTED,19.0,40.0,0.0,31.0,30.0,120.0,no,0.3333333333333333
+47,568,Create Supercharged Pools for CRO MATIC and BNB,unknown,REJECTED,26.0,45.0,0.0,14.0,33.0,118.0,no,0.3813559322033898
+48,567,Disposition of ProtoRev Collected Revenues,Text,REJECTED,24.0,31.0,0.0,32.0,31.0,118.0,abstain,0.2711864406779661
+49,564,Add PICAOSMO to External Incentive Matching Program,Text,PASSED,36.0,6.0,0.0,48.0,29.0,119.0,abstain,0.40336134453781514
+50,561,Signalling proposal for adding LOREOSMO to External Incentive Matching program,Text,PASSED,63.0,3.0,0.0,28.0,27.0,121.0,yes,0.5206611570247934
+51,553,Launching ERIS Protocol on Osmosis,ParameterChange,PASSED,67.0,1.0,0.0,21.0,30.0,119.0,yes,0.5630252100840336
+52,548,Allow Levana Contracts upload,ParameterChange,PASSED,48.0,11.0,0.0,20.0,37.0,116.0,yes,0.41379310344827586
+53,544,Community Enabled Analytics Program Renewal July 2023  June 2024,CommunityPoolSpend,REJECTED,4.0,50.0,0.0,31.0,33.0,118.0,no,0.423728813559322
+54,530,Introduce a Protocol Taker Fee for Osmosis swaps,Text,PASSED,64.0,17.0,0.0,13.0,26.0,120.0,yes,0.5333333333333333
+55,528,Decide Whats Shown on the Main Osmosis Website,Text,REJECTED,10.0,46.0,0.0,36.0,27.0,119.0,no,0.3865546218487395
+56,527,Upload Suitdrop Redeem Contract,StoreCode,PASSED,53.0,2.0,0.0,26.0,36.0,117.0,yes,0.452991452991453
+57,526,Allow Squid contracts to be uploaded,ParameterChange,PASSED,57.0,1.0,0.0,14.0,42.0,114.0,yes,0.5
+58,523,Signaling Proposal for WHALEOSMO External Incentive Match Extension ,Text,PASSED,31.0,15.0,0.0,39.0,33.0,118.0,abstain,0.3305084745762712
+59,520,Upload Alpine Pay Core Contract,Text,REJECTED,9.0,40.0,1.0,43.0,26.0,119.0,abstain,0.36134453781512604
+60,519,Alternative Signalling Proposal for use of ProtoRev Funds,Text,REJECTED,15.0,43.0,1.0,31.0,29.0,119.0,no,0.36134453781512604
+61,518,Match External Incentives for qOSMOOSMO pool 956,Text,PASSED,71.0,4.0,0.0,20.0,25.0,120.0,yes,0.5916666666666667
+62,516,Signaling Proposal for use of ProtoRev Funds,Text,REJECTED,7.0,67.0,0.0,16.0,29.0,119.0,no,0.5630252100840336
+63,512,Suitdrop Commonwealth Proposal,StoreCode,PASSED,55.0,4.0,0.0,26.0,33.0,118.0,yes,0.4661016949152542
+64,505,ARB Bootstrapping liquidity incentives,UpdatePoolIncentives,PASSED,64.0,1.0,0.0,18.0,35.0,118.0,yes,0.5423728813559322
+65,500,ShapeShift Bounty Completion,CommunityPoolSpend,PASSED,58.0,6.0,0.0,25.0,29.0,118.0,yes,0.4915254237288136
+66,498,Signalling Proposal for OSMOFIL incentivised pool,Text,PASSED,52.0,1.0,0.0,32.0,33.0,118.0,yes,0.4406779661016949
+67,497,Signalling Proposal for LIKEOSMO External Incentive Match Renewal,Text,REJECTED,17.0,24.0,0.0,40.0,36.0,117.0,abstain,0.3418803418803419
+68,492,Signalling Proposal for JKLOSMO Incentivized Liquidity Pool ,Text,PASSED,32.0,21.0,0.0,39.0,28.0,120.0,abstain,0.325
+69,482,Signalling Proposal for OSMONCT incentives,Text,PASSED,54.0,0.0,0.0,26.0,37.0,117.0,yes,0.46153846153846156
+70,480,Signaling Proposal for WHALEOSMO External Incentive Match,Text,PASSED,62.0,3.0,0.0,25.0,29.0,119.0,yes,0.5210084033613446
+71,475,Upload Autonomy Network LimitsStops Wrapper Contract,StoreCode,PASSED,53.0,0.0,2.0,27.0,36.0,118.0,yes,0.4491525423728814
+72,474,Upload Autonomy Network Registry Stake Contract V2,StoreCode,PASSED,50.0,0.0,2.0,28.0,38.0,118.0,yes,0.423728813559322
+73,473,Allow Kado Router Contracts to be Uploaded,ParameterChange,PASSED,58.0,1.0,0.0,30.0,30.0,119.0,yes,0.48739495798319327
+74,464,Match External Incentives to extended STARSOSMO pair,Text,PASSED,63.0,7.0,0.0,33.0,21.0,124.0,yes,0.5080645161290323
+75,461,Osmosis Support Lab Funding Round March  August 2023,CommunityPoolSpend,PASSED,69.0,4.0,0.0,16.0,30.0,119.0,yes,0.5798319327731093
+76,457,Signalling Proposal for OSMOCMST incentives,Text,PASSED,42.0,3.0,0.0,44.0,29.0,118.0,abstain,0.3728813559322034
+77,451,Whitelist Apollo Vaults for stATOMATOM,ParameterChange,PASSED,65.0,0.0,1.0,25.0,28.0,119.0,yes,0.5462184873949579
+78,449,Reevaluation of NGMOSMO Incentives,Text,PASSED,60.0,1.0,0.0,25.0,33.0,119.0,yes,0.5042016806722689
+79,447,Upload CW721 Base Contract,StoreCode,PASSED,49.0,6.0,0.0,32.0,31.0,118.0,yes,0.4152542372881356
+80,444,Composability Incentives Category,UpdatePoolIncentives,PASSED,49.0,1.0,0.0,32.0,36.0,118.0,yes,0.4152542372881356
+81,442,Signaling Proposal  Recognise CMST as a Stablecoin asset,Text,PASSED,53.0,1.0,0.0,29.0,35.0,118.0,yes,0.4491525423728814
+82,436,Whitelist Apollo Vaults for USDC and ATOM,ParameterChange,PASSED,65.0,0.0,0.0,19.0,34.0,118.0,yes,0.5508474576271186
+83,431,Signaling Proposal  Define New Stable Asset IST and incentivize stable swap pool DAI  CMST  IST with OSMO rewards,Text,PASSED,34.0,10.0,2.0,30.0,40.0,116.0,no_vote,0.3448275862068966
+84,430,Signaling Proposal for ISTOSMO External Incentive Match,Text,PASSED,40.0,11.0,2.0,28.0,36.0,117.0,yes,0.3418803418803419
+85,426,BUSD bootstrapping liquidity incentives,UpdatePoolIncentives,PASSED,70.0,1.0,0.0,17.0,30.0,118.0,yes,0.5932203389830508
+86,424,Signaling Proposal for ATOMstkATOM Stableswap Pool External Incentive Match,Text,PASSED,32.0,17.0,0.0,38.0,31.0,118.0,abstain,0.3220338983050847
+87,421,ProtoRev Revenue Allocation,Text,PASSED,57.0,2.0,0.0,25.0,34.0,118.0,yes,0.4830508474576271
+88,420,OSMOWYND Token Swap for Protocol Liquidity,CommunityPoolSpend,PASSED,49.0,7.0,0.0,37.0,26.0,119.0,yes,0.4117647058823529
+89,419,Enable Superfluid Staking on OSMOSTRD,SuperfluidAssets,PASSED,66.0,0.0,0.0,23.0,29.0,118.0,yes,0.559322033898305
+90,417,Allow Apollo DAO LP Vault Contracts to be Uploaded,ParameterChange,PASSED,69.0,9.0,0.0,14.0,27.0,119.0,yes,0.5798319327731093
+91,406,Regular Incentive adjustment for 20230123,UpdatePoolIncentives,REJECTED,24.0,16.0,1.0,47.0,31.0,119.0,abstain,0.3949579831932773
+92,403,Recognise BUSD as a Stablecoin asset,Text,PASSED,82.0,1.0,0.0,21.0,22.0,126.0,yes,0.6507936507936508
+93,402,Recognise USDT as a Stablecoin asset,Text,PASSED,82.0,3.0,0.0,19.0,22.0,126.0,yes,0.6507936507936508
+94,400,Phase out 1 and 7 day liquidity bonds,Text,PASSED,56.0,10.0,1.0,32.0,24.0,123.0,yes,0.45528455284552843
+95,394,Enable Superfluid Staking on OSMOHUAHUA,SuperfluidAssets,PASSED,58.0,4.0,0.0,16.0,38.0,116.0,yes,0.5
+96,390,Reduce incentives on established Major and Stable category pools,UpdatePoolIncentives,PASSED,60.0,1.0,2.0,21.0,34.0,118.0,yes,0.5084745762711864
+97,389,Remove NonOSMO pool incentives,Text,PASSED,52.0,3.0,1.0,28.0,34.0,118.0,yes,0.4406779661016949
+98,388,Community consent Cosmos Pay supporting OSMO,Text,REJECTED,23.0,27.0,2.0,31.0,35.0,118.0,no_vote,0.2966101694915254
+99,386,WMATIC bootstrapping liquidity incentives,UpdatePoolIncentives,PASSED,65.0,5.0,0.0,16.0,32.0,118.0,yes,0.5508474576271186
+100,378,Osmosis Support Lab Funding Round December 2022  February 2023,CommunityPoolSpend,PASSED,67.0,4.0,1.0,17.0,28.0,117.0,yes,0.5726495726495726
+101,376,Phase out Incentives on Low Revenue Pools,Text,PASSED,61.0,9.0,0.0,16.0,33.0,119.0,yes,0.5126050420168067
+102,375,Proposal on Transferring ION to ION DAO Treasury,CommunityPoolSpend,PASSED,53.0,4.0,0.0,31.0,30.0,118.0,yes,0.4491525423728814
+103,372,Match External Incentives to extended STARSOSMO and ATOMSTARS pairs,Text,PASSED,65.0,9.0,3.0,21.0,22.0,120.0,yes,0.5416666666666666
+104,367,Revive IBC Client to Dig,ClientUpdate,PASSED,49.0,1.0,0.0,27.0,39.0,116.0,yes,0.4224137931034483
+105,365,Signaling Proposal for ISTOSMO External Incentive Match,Text,PASSED,71.0,6.0,0.0,17.0,24.0,118.0,yes,0.6016949152542372
+106,362,Osmosis Grants Program OGP Renewal,Text,PASSED,36.0,24.0,7.0,27.0,25.0,119.0,yes,0.3025210084033613
+107,352,Signalling Proposal for LIKEOSMO External Incentive Match,Text,PASSED,34.0,21.0,0.0,27.0,35.0,117.0,no_vote,0.29914529914529914
+108,350,Match External Incentives for GRAV incentivised pairs,Text,PASSED,26.0,26.0,0.0,34.0,31.0,117.0,abstain,0.2905982905982906
+109,349,Remove Incentives from OSMOROWAN 629,UpdatePoolIncentives,PASSED,51.0,2.0,0.0,38.0,27.0,118.0,yes,0.4322033898305085
+110,343,Upload Autonomy Network StopsLimits Wrapper Contract,StoreCode,REJECTED,30.0,48.0,1.0,15.0,24.0,118.0,no,0.4067796610169492
+111,342,Upload Autonomy Network Regsitry Stake Contract,StoreCode,REJECTED,29.0,48.0,1.0,15.0,25.0,118.0,no,0.4067796610169492
+112,339,Upload Apollo Liquid Staking Contract,StoreCode,PASSED,19.0,14.0,4.0,34.0,42.0,113.0,no_vote,0.37168141592920356
+113,326,Signalling Proposal for OSMOBLD pool 795 incentivised pool,Text,PASSED,53.0,7.0,0.0,22.0,35.0,117.0,yes,0.452991452991453
+114,323,Signalling Proposal Removal of incentives from pool 690 MNTLOSMO,Text,PASSED,48.0,2.0,0.0,20.0,43.0,113.0,yes,0.4247787610619469
+115,320,Remove blockedgo from Osmosis,Text,REJECTED,7.0,31.0,3.0,39.0,34.0,114.0,abstain,0.34210526315789475
+116,317,Signalling Proposal Removal of incentives on pools 600 ATOMCMDX  601 CMDXOSMO,SuperfluidAssets,PASSED,37.0,4.0,0.0,39.0,33.0,113.0,abstain,0.34513274336283184
+117,316,ION DAO Store DAO contracts code,StoreCode,PASSED,59.0,1.0,0.0,18.0,36.0,114.0,yes,0.5175438596491229
+118,315,ION DAO Store staking contracts code,StoreCode,PASSED,64.0,1.0,0.0,19.0,32.0,116.0,yes,0.5517241379310345
+119,309,Signaling Proposal for GLTOOSMO 778 incentivized pool,Text,REJECTED,3.0,59.0,3.0,12.0,38.0,115.0,no,0.5130434782608696
+120,307,Match external ECH incentives on ECHOSMO 747,Text,REJECTED,1.0,24.0,48.0,14.0,31.0,118.0,veto,0.4067796610169492
+121,306,ION DAO Store DAO contracts code,StoreCode,REJECTED,8.0,44.0,0.0,11.0,49.0,112.0,no_vote,0.4375
+122,305,ION DAO Store staking contracts code,StoreCode,REJECTED,8.0,51.0,0.0,12.0,42.0,113.0,no,0.45132743362831856
+123,295,Signalling Proposal for OSMOLINK731 incentivised pool,Text,PASSED,57.0,4.0,0.0,22.0,35.0,118.0,yes,0.4830508474576271
+124,294,Signalling Proposal for OSMOINJ 725 incentivised pool,Text,PASSED,36.0,22.0,0.0,27.0,33.0,118.0,yes,0.3050847457627119
+125,281,Signalling Proposal for OSMOKAVA730 incentivised pools,Text,PASSED,43.0,5.0,0.0,21.0,44.0,113.0,no_vote,0.3893805309734513
+126,277,Gift to Osmosis stakeholders,Text,REJECTED,5.0,16.0,57.0,5.0,33.0,116.0,veto,0.49137931034482757
+127,276, Match XPRT External Incentives for Pools XPRTUSDC719  XPRTOSMO15,Text,PASSED,35.0,18.0,0.0,24.0,37.0,114.0,no_vote,0.32456140350877194
+128,273,Phase out Incentives on smaller Other Category pools,Text,PASSED,45.0,5.0,0.0,26.0,38.0,114.0,yes,0.39473684210526316
+129,271,Manual Incentive Adjustment  resubmission,UpdatePoolIncentives,PASSED,37.0,18.0,1.0,25.0,35.0,116.0,yes,0.31896551724137934
+130,270,Match External Incentives on OSMOMNTL 690,Text,PASSED,21.0,25.0,0.0,35.0,34.0,115.0,abstain,0.30434782608695654
+131,267,Manual Incentive Adjustment  Completely remove incentives for various pools,UpdatePoolIncentives,REJECTED,8.0,57.0,0.0,22.0,31.0,118.0,no,0.4830508474576271
+132,262,Match external incentives on OSMO LIKE Pool 553,Text,REJECTED,10.0,29.0,0.0,39.0,38.0,116.0,abstain,0.33620689655172414
+133,261,Signalling proposal for MEME incentivized pools,Text,REJECTED,7.0,49.0,0.0,19.0,38.0,113.0,no,0.4336283185840708
+134,256,Fix IBC transfers between Lum Network and Osmosis,ClientUpdate,FAILED,46.0,31.0,0.0,4.0,35.0,116.0,yes,0.39655172413793105
+135,251,Osmosis Ministry of Marketing Funding Round June  November 2022,CommunityPoolSpend,PASSED,52.0,7.0,0.0,28.0,31.0,118.0,yes,0.4406779661016949
+136,243,Enable Superfluid for XPRTOSMO pool 15,SuperfluidAssets,PASSED,51.0,5.0,2.0,19.0,37.0,114.0,yes,0.4473684210526316
+137,242, Match XPRT External Incentives for XPRTUSDC pool 719,Text,PASSED,38.0,16.0,2.0,20.0,37.0,113.0,yes,0.336283185840708
+138,241,Enable Superfluid for XPRTOSMO pool 15,Text,PASSED,47.0,9.0,2.0,19.0,37.0,114.0,yes,0.41228070175438597
+139,237,Signalling proposal for incentivized osmoglx pool,Text,REJECTED,3.0,28.0,0.0,48.0,36.0,115.0,abstain,0.41739130434782606
+140,232,Reduction of Voting Period to 2 Days,ParameterChange,REJECTED,9.0,57.0,0.0,10.0,37.0,113.0,no,0.504424778761062
+141,220, Match PSTAKE External Incentives for Pools 648,Text,PASSED,36.0,12.0,0.0,22.0,42.0,112.0,no_vote,0.375
+142,216,Signalling Proposal for AssetMantle Incentivised pool,Text,PASSED,51.0,20.0,0.0,23.0,24.0,118.0,yes,0.4322033898305085
+143,211,Signalling Proposal for Fetchai Incentivised pool,Text,PASSED,63.0,10.0,0.0,18.0,27.0,118.0,yes,0.5338983050847458
+144,209,Adopt Wormhole as the Canonical Ethereum Bridge Service Provider,Text,REJECTED,13.0,61.0,0.0,29.0,19.0,122.0,no,0.5
+145,208,Adopt Nomad as the Canonical Ethereum Bridge Service Provider,Text,PASSED,21.0,42.0,0.0,38.0,20.0,121.0,no,0.34710743801652894
+146,207,Adopt Gravity as the Canonical Ethereum Bridge Service Provider,Text,PASSED,33.0,39.0,0.0,31.0,19.0,122.0,no,0.319672131147541
+147,206,Adopt Axelar as the Canonical Ethereum Bridge Service Provider,Text,PASSED,71.0,10.0,0.0,21.0,21.0,123.0,yes,0.5772357723577236
+148,204,Signaling proposal to add Cerberus CRBRUS pool 662 to the Osmosis incentives program,Text,PASSED,45.0,20.0,0.0,31.0,22.0,118.0,yes,0.3813559322033898
+149,200,Onboard HOPEOSMO 653 for Osmosis Incentives,Text,REJECTED,5.0,38.0,0.0,41.0,34.0,118.0,abstain,0.3474576271186441
+150,199,Formalize usage of commonwealth for governance,Text,PASSED,67.0,6.0,0.0,17.0,28.0,118.0,yes,0.5677966101694916
+151,195,Match External Incentives for PSTAKEOSMO 648,Text,PASSED,43.0,8.0,0.0,19.0,43.0,113.0,yes,0.3805309734513274
+152,194,Match External Incentives for UMEEOSMO and ATOMUMEE,Text,PASSED,52.0,3.0,0.0,17.0,41.0,113.0,yes,0.46017699115044247
+153,191,Allocate a flat portion of staking rewards per validator,Text,REJECTED,17.0,41.0,0.0,22.0,36.0,116.0,no,0.35344827586206895
+154,190,Signalling Proposal for SWTHOSMO651 Incentivized Pools,Text,PASSED,23.0,14.0,0.0,42.0,37.0,116.0,abstain,0.3620689655172414
+155,188,Remove incentives from all xki pools,Text,REJECTED,15.0,47.0,3.0,19.0,33.0,117.0,no,0.4017094017094017
+156,180,Signalling proposal for MARBLEOSMO649 incentivized pool,Text,PASSED,11.0,19.0,0.0,41.0,42.0,113.0,no_vote,0.37168141592920356
+157,178,Match External Incentives for SWTHOSMO,Text,PASSED,16.0,11.0,0.0,38.0,47.0,112.0,no_vote,0.41964285714285715
+158,173,Match External Incentives for PSTAKEOSMO 648,Text,PASSED,47.0,3.0,0.0,17.0,45.0,112.0,yes,0.41964285714285715
+159,171,Signalling proposal for PSTAKEOSMO648 incentivized pool,Text,PASSED,33.0,4.0,0.0,16.0,56.0,109.0,no_vote,0.5137614678899083
+160,170,Signaling Proposal for GRAV Incentivized Pools,Text,PASSED,47.0,5.0,0.0,12.0,48.0,112.0,no_vote,0.42857142857142855
+161,169,Match External Incentives for CMDXOSMO and CMDXATOM pairs,Text,PASSED,55.0,3.0,0.0,15.0,40.0,113.0,yes,0.48672566371681414
+162,166,Signaling proposal to match DARC external incentives,Text,PASSED,45.0,3.0,0.0,23.0,42.0,113.0,yes,0.39823008849557523
+163,165,Signaling Proposal Add BAND Incentivized Pool,Text,PASSED,51.0,7.0,0.0,16.0,39.0,113.0,yes,0.45132743362831856
+164,163,Signalling proposal Match External Incentives to LIKEOSMO and ATOMLIKE pools,Text,PASSED,39.0,6.0,0.0,20.0,47.0,112.0,no_vote,0.41964285714285715
+165,162,Allocate 125k Osmo from the OCP to give SupportMarketing access to guidance on business matters related to Defi DAOs and structuring,CommunityPoolSpend,REJECTED,12.0,49.0,3.0,9.0,40.0,113.0,no,0.4336283185840708
+166,159,Signaling Proposal Add DEC Incentivized Pools ATOM  OSMO,Text,PASSED,20.0,13.0,0.0,38.0,42.0,113.0,no_vote,0.37168141592920356
+167,156,Signaling proposal UMEE incentivized pools UMEEUST and ATOMUMEE pairs,Text,PASSED,45.0,5.0,0.0,11.0,50.0,111.0,no_vote,0.45045045045045046
+168,153,Match XPRT External Incentives for Pool 612,Text,PASSED,40.0,6.0,0.0,10.0,54.0,110.0,no_vote,0.4909090909090909
+169,152,Reducing the Impact of Volume Manipulation,Text,PASSED,22.0,2.0,0.0,27.0,58.0,109.0,no_vote,0.5321100917431193
+170,151,Signaling proposal Add OSMO incentives to ATOMCHEQ pool 617,Text,PASSED,11.0,8.0,0.0,35.0,56.0,110.0,no_vote,0.509090909090909
+171,149,Signaling proposal for XPRTUST612 incentivized pool,Text,PASSED,37.0,8.0,1.0,21.0,45.0,112.0,no_vote,0.4017857142857143
+172,148,Signaling proposal for DARC incentivized pools,Text,PASSED,36.0,1.0,1.0,17.0,54.0,109.0,no_vote,0.4954128440366973
+173,146,Signaling Proposal to match external incentives for the XKIOSMO and XKIUST pools,Text,PASSED,34.0,5.0,0.0,12.0,57.0,108.0,no_vote,0.5277777777777778
+174,144,Signaling proposal Match external incentives on ATOMCHEQ pool,Text,REJECTED,5.0,16.0,1.0,35.0,53.0,110.0,no_vote,0.4818181818181818
+175,141,Signaling Proposal Add VDL Incentivized Pool,Text,PASSED,40.0,1.0,0.0,14.0,54.0,109.0,no_vote,0.4954128440366973
+176,140,Signaling proposal for NETA incentivized pools,Text,PASSED,41.0,3.0,0.0,17.0,50.0,111.0,no_vote,0.45045045045045046
+177,135,Signalling Proposal ROWANOSMO Incentivized Pool,Text,PASSED,52.0,4.0,0.0,11.0,45.0,112.0,yes,0.4642857142857143
+178,134,Development and Marketing Expansion to the Russian Community,CommunityPoolSpend,REJECTED,8.0,42.0,5.0,7.0,49.0,111.0,no_vote,0.44144144144144143
+179,133,Incentive Matching Fee Based and 11 Caps,Text,PASSED,36.0,0.0,0.0,27.0,48.0,111.0,no_vote,0.43243243243243246
+180,132,Signalling Proposal ROWAN Incentivized Pools and Matched Incentives,Text,REJECTED,21.0,35.0,0.0,13.0,43.0,112.0,no_vote,0.38392857142857145
+181,130,Signaling proposal for DIG incentivized pools,Text,PASSED,30.0,6.0,0.0,22.0,52.0,110.0,no_vote,0.4727272727272727
+182,123,Signaling proposal for DIG incentivized pools,Text,REJECTED,8.0,15.0,0.0,18.0,67.0,108.0,no_vote,0.6203703703703703
+183,120,Signaling Proposal Ion DAO  Treasury,Text,PASSED,44.0,9.0,0.0,19.0,41.0,113.0,yes,0.3893805309734513
+184,114,Increase Max Validator Set Size to 118,ParameterChange,PASSED,28.0,15.0,1.0,4.0,60.0,108.0,no_vote,0.5555555555555556
+185,111,Enable IBC transfers between Lum Network and Osmosis,ClientUpdate,REJECTED,9.0,34.0,0.0,8.0,57.0,108.0,no_vote,0.5277777777777778
+186,109,Signaling proposal for HUAHUA incentivized pools,Text,PASSED,26.0,5.0,0.0,7.0,70.0,108.0,no_vote,0.6481481481481481
+187,96,Distribution of Clawback IONOSMO to OSMO stakers,Text,REJECTED,4.0,18.0,24.0,5.0,58.0,109.0,no_vote,0.5321100917431193
+188,84,Incentives for CHEQOSMO,Text,PASSED,11.0,3.0,0.0,10.0,81.0,105.0,no_vote,0.7714285714285715
+189,82,Signaling proposal for BOOT incentivized pools,Text,PASSED,19.0,3.0,0.0,4.0,79.0,105.0,no_vote,0.7523809523809524
+190,81,Signaling Proposal BTSG Incentivized Pools,Text,PASSED,30.0,1.0,0.0,5.0,70.0,106.0,no_vote,0.660377358490566
+191,76,Signaling Proposal for XKIJUNO incentivized pool,Text,PASSED,11.0,5.0,0.0,7.0,80.0,103.0,no_vote,0.7766990291262136
+192,74,Space Pussy Demands Incentivization,Text,REJECTED,10.0,10.0,1.0,8.0,77.0,106.0,no_vote,0.7264150943396226
+193,72,Set Max validators to 150,ParameterChange,REJECTED,10.0,16.0,0.0,12.0,68.0,106.0,no_vote,0.6415094339622641
+194,62,Match external incentives to BCNAOSMO and ATOMBCNA pairs,Text,PASSED,17.0,1.0,0.0,5.0,81.0,104.0,no_vote,0.7788461538461539
+195,58,Add more Luna Ust and Eeur pools to incentives,Text,PASSED,17.0,3.0,0.0,4.0,81.0,105.0,no_vote,0.7714285714285715
+196,57,Osmosis Community Support DAO,CommunityPoolSpend,PASSED,19.0,1.0,0.0,5.0,80.0,105.0,no_vote,0.7619047619047619
+197,55,Incentivising UST and Luna on Osmosis exposes the ecosystem and stakeholders to significant regulatory and stability risk,UpdatePoolIncentives,REJECTED,2.0,29.0,7.0,7.0,63.0,108.0,no_vote,0.5833333333333334
+198,51,Signaling proposal for LIKE incentivized pools,Text,PASSED,20.0,1.0,0.0,7.0,78.0,106.0,no_vote,0.7358490566037735
+199,50,Signaling proposal for IXO incentivized pools,Text,PASSED,24.0,2.0,0.0,6.0,74.0,106.0,no_vote,0.6981132075471698
+200,39,Community Support DAO,CommunityPoolSpend,REJECTED,13.0,12.0,1.0,6.0,74.0,106.0,no_vote,0.6981132075471698
+201,29,Would you be open to a clawback of unclaimed ION,Text,PASSED,22.0,2.0,0.0,5.0,75.0,104.0,no_vote,0.7211538461538461
+202,24,Should we add incentives to IOV pools 183 and 197,Text,PASSED,31.0,2.0,0.0,6.0,67.0,106.0,no_vote,0.6320754716981132
+203,22,SemiAutomatic Incentive Adjustments for 08162021,UpdatePoolIncentives,REJECTED,20.0,15.0,0.0,7.0,66.0,108.0,no_vote,0.6111111111111112
+204,7,Osmosis Inflation Dynamics Adjustment,ParameterChange,REJECTED,6.0,22.0,3.0,2.0,72.0,105.0,no_vote,0.6857142857142857
+205,5,Italian Educational Content,CommunityPoolSpend,REJECTED,6.0,17.0,1.0,3.0,77.0,104.0,no_vote,0.7403846153846154
+206,3,Were on the side of the little girl,Text,PASSED,8.0,0.0,2.0,9.0,84.0,103.0,no_vote,0.8155339805825242
+207,1,We want to claim rewards completely,Text,PASSED,28.0,2.0,2.0,10.0,66.0,108.0,no_vote,0.6111111111111112

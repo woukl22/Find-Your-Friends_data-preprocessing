@@ -1,0 +1,17 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,54,Growth DAO requests additional funds from the community pool,CommunityPoolSpend,PASSED,38.0,0.0,0.0,2.0,22.0,62.0,yes,0.6129032258064516
+1,49,Growth DAO requests additional funds from the community pool,CommunityPoolSpend,PASSED,42.0,0.0,0.0,5.0,17.0,64.0,yes,0.65625
+2,48,Growth DAO proposes Community Fund allocation for ADV Campaign and Sentinel Explorer,CommunityPoolSpend,PASSED,34.0,3.0,0.0,13.0,13.0,63.0,yes,0.5396825396825397
+3,46,Growth DAO requests to allocate funds currently in the community fund and take them under DAO control,CommunityPoolSpend,PASSED,49.0,0.0,0.0,2.0,12.0,63.0,yes,0.7777777777777778
+4,45,Growth DAO requests to allocate funds currently in the community fund and take them under DAO control,CommunityPoolSpend,REJECTED,0.0,46.0,1.0,2.0,14.0,63.0,no,0.7301587301587301
+5,39,Reduce inflation by removing base and bonus proposer rewards,ParameterChange,PASSED,22.0,11.0,0.0,18.0,12.0,63.0,yes,0.3492063492063492
+6,35,Establish Growth Dao for Sentinel,CommunityPoolSpend,PASSED,45.0,0.0,0.0,5.0,14.0,64.0,yes,0.703125
+7,29,Implementing a Tiered Governance Discussion Period,Text,PASSED,29.0,0.0,0.0,10.0,24.0,63.0,yes,0.4603174603174603
+8,27,Reducing onchain governance time,ParameterChange,PASSED,36.0,7.0,0.0,10.0,11.0,64.0,yes,0.5625
+9,24,Listing DVPN on KUJIRA EMERGENCY PROPOSAL,CommunityPoolSpend,PASSED,41.0,0.0,0.0,14.0,11.0,66.0,yes,0.6212121212121212
+10,22,Use of Community tokens to fund V2Ray Sentinel nodes deployed on the Akash Network,CommunityPoolSpend,PASSED,47.0,1.0,0.0,3.0,14.0,65.0,yes,0.7230769230769231
+11,20,Make the Sentinel Community the Lead Sponsor of a Decentralized VPN Bot,CommunityPoolSpend,REJECTED,8.0,28.0,0.0,9.0,19.0,64.0,no,0.4375
+12,16,Staking contract proposal  5 years duration,Text,PASSED,3.0,34.0,4.0,8.0,16.0,65.0,no,0.5230769230769231
+13,15,Staking contract proposal  25 years duration,Text,REJECTED,2.0,34.0,3.0,8.0,17.0,64.0,no,0.53125
+14,14,Staking contract proposal  125 years duration,Text,REJECTED,2.0,35.0,3.0,8.0,17.0,65.0,no,0.5384615384615384
+15,10,SIP10 Inflation reduction to promote sustainability,ParameterChange,REJECTED,28.0,21.0,1.0,4.0,11.0,65.0,yes,0.4307692307692308

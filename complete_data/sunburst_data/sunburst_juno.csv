@@ -1,0 +1,48 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,353,Juno Communications SubDAO Funding Proposal 3 months,CommunityPoolSpend,PASSED,35.0,4.0,0.0,25.0,53.0,117.0,no_vote,0.452991452991453
+1,351,Hexxagon Proposal for Validator and Chain Upgrade Support,CommunityPoolSpend,REJECTED,4.0,52.0,5.0,7.0,51.0,119.0,no,0.4369747899159664
+2,349,Signal proposal for the council to put dapps as the first priority,Text,REJECTED,19.0,9.0,1.0,59.0,41.0,129.0,abstain,0.4573643410852713
+3,339,Development Election Kopeboy,ExecuteContract,FAILED,23.0,5.0,0.0,58.0,44.0,130.0,abstain,0.4461538461538462
+4,338,Development Election Andr,ExecuteContract,FAILED,25.0,4.0,0.0,57.0,43.0,129.0,abstain,0.4418604651162791
+5,337,Development Election Ray Raspberry,ExecuteContract,FAILED,29.0,4.0,0.0,51.0,45.0,129.0,abstain,0.3953488372093023
+6,336,Operations Election Ninjaxan,unknown,PASSED,31.0,3.0,0.0,53.0,42.0,129.0,abstain,0.4108527131782946
+7,335,Operations Election Lil D,unknown,REJECTED,15.0,13.0,0.0,58.0,43.0,129.0,abstain,0.4496124031007752
+8,331,Shift focus from feature upgrades to finishing dApps and dev onboarding,unknown,REJECTED,32.0,31.0,8.0,26.0,36.0,133.0,no_vote,0.2706766917293233
+9,330,Remove BlockCreators from Core1  Cancel Vesting,unknown,REJECTED,15.0,5.0,5.0,54.0,49.0,128.0,abstain,0.421875
+10,329,Community Relations Elections 22 Tonyler,unknown,PASSED,30.0,4.0,0.0,51.0,44.0,129.0,abstain,0.3953488372093023
+11,328,Community Relations Election 12 DragonMonk111,unknown,REJECTED,15.0,16.0,1.0,54.0,43.0,129.0,abstain,0.4186046511627907
+12,326,Development Election 11 Poroburu,ExecuteContract,PASSED,77.0,0.0,0.0,23.0,33.0,133.0,yes,0.5789473684210527
+13,324,Operations Election 44 Panos,ExecuteContract,REJECTED,24.0,22.0,0.0,52.0,35.0,133.0,abstain,0.39097744360902253
+14,323,Operations Election 34 Macks Wolfard,ExecuteContract,PASSED,27.0,22.0,0.0,49.0,35.0,133.0,abstain,0.3684210526315789
+15,322,Operations Election 24 Schweinebacke Cristiano,ExecuteContract,PASSED,34.0,19.0,1.0,43.0,36.0,133.0,abstain,0.3233082706766917
+16,321,Operations Election 14 CryptoTank,ExecuteContract,PASSED,33.0,15.0,2.0,49.0,35.0,134.0,abstain,0.3656716417910448
+17,318,OverTheCounter OTC Funding Proposal,unknown,REJECTED,20.0,34.0,0.0,22.0,48.0,124.0,no_vote,0.3870967741935484
+18,316,Signal Validators Max 24 Hour Change Rate To 5,unknown,PASSED,70.0,5.0,1.0,15.0,39.0,130.0,yes,0.5384615384615384
+19,314,Sail with the Whale,CommunityPoolSpend,REJECTED,34.0,36.0,0.0,24.0,36.0,130.0,no,0.27692307692307694
+20,313,Deploy 2M Additional JUNO to the stJUNOJUNO pool on Osmosis,CommunityPoolSpend,PASSED,61.0,8.0,5.0,15.0,41.0,130.0,yes,0.46923076923076923
+21,312,Deploy 2M Additional JUNO to the stJUNOJUNO pool on Osmosis,unknown,REJECTED,7.0,58.0,3.0,11.0,47.0,126.0,no,0.4603174603174603
+22,307,Reduce Network Fees in JUNO to 10 of current level,ParameterChange,REJECTED,34.0,39.0,0.0,34.0,27.0,134.0,no,0.291044776119403
+23,306,Waive Fees for Ojo Network Oracle,Text,REJECTED,50.0,31.0,2.0,19.0,31.0,133.0,yes,0.37593984962406013
+24,292,56 Conferences budget  HackWasm Italy,CommunityPoolSpend,PASSED,81.0,5.0,0.0,21.0,27.0,134.0,yes,0.6044776119402985
+25,286,Remove Lobo from Core1,Text,REJECTED,1.0,48.0,12.0,44.0,28.0,133.0,no,0.3609022556390977
+26,284,WYND DEX External Incentives for WYNDJUNO Pool,Text,PASSED,53.0,19.0,0.0,36.0,27.0,135.0,yes,0.3925925925925926
+27,280,Increase Validator Set to 160,ParameterChange,REJECTED,32.0,53.0,0.0,20.0,28.0,133.0,no,0.39849624060150374
+28,279,Protocol owned liquidity seJUNOJUNO on Wynd DEX,CommunityPoolSpend,REJECTED,20.0,26.0,0.0,59.0,28.0,133.0,abstain,0.44360902255639095
+29,275,Use Skip Tendermint By Default,Text,PASSED,92.0,8.0,0.0,17.0,20.0,137.0,yes,0.6715328467153284
+30,141,Protocol Owned Liquidity proposal on WYND DEX,CommunityPoolSpend,PASSED,81.0,1.0,0.0,25.0,27.0,134.0,yes,0.6044776119402985
+31,125,Fair and Equitable Distribution of Remaining Funds corrected,Text,REJECTED,5.0,79.0,0.0,22.0,27.0,133.0,no,0.5939849624060151
+32,89,Cosmos Option Vaults by CzarDAO,CommunityPoolSpend,REJECTED,31.0,26.0,0.0,46.0,30.0,133.0,abstain,0.3458646616541353
+33,85,CORRECTED Make JUNO Carbon Neutral by Purchasing EcoCredits,Text,REJECTED,24.0,59.0,0.0,15.0,32.0,130.0,no,0.45384615384615384
+34,83,Make JUNO Carbon Neutral by Purchasing EcoCredits,Text,REJECTED,5.0,78.0,0.0,15.0,32.0,130.0,no,0.6
+35,72,Community consent Cosmos Pay supporting JUNO,Text,PASSED,46.0,3.0,5.0,29.0,44.0,127.0,yes,0.36220472440944884
+36,60,Loop Finance  Juno Terra Developer Grant Final Tranche Payment,Text,PASSED,40.0,14.0,0.0,55.0,25.0,134.0,abstain,0.41044776119402987
+37,59,Fund only open source software,Text,PASSED,47.0,38.0,2.0,24.0,23.0,134.0,yes,0.35074626865671643
+38,39,Komple Framework KompleJS  Marketplace Builder Proposal,CommunityPoolSpend,PASSED,68.0,6.0,0.0,38.0,23.0,135.0,yes,0.5037037037037037
+39,30,Gift to Cosmos stakeholders,Text,REJECTED,5.0,15.0,66.0,4.0,40.0,130.0,veto,0.5076923076923077
+40,20,Unity Proposal,SoftwareUpgrade,PASSED,81.0,16.0,0.0,15.0,22.0,134.0,yes,0.6044776119402985
+41,19,Confirmation by CCN to agree to Unity Prop,Text,REJECTED,2.0,51.0,8.0,22.0,44.0,127.0,no,0.4015748031496063
+42,18,Harmony Proposal to end FUD,Text,REJECTED,1.0,40.0,37.0,20.0,32.0,130.0,no,0.3076923076923077
+43,16,Correcting the gamed stakedrop,Text,PASSED,40.0,50.0,5.0,26.0,15.0,136.0,no,0.36764705882352944
+44,15,JunoSwap Signaling Proposal Allow permissionless listing of bridged assets from Sifchains Peggy bridge,Text,REJECTED,14.0,39.0,1.0,29.0,43.0,126.0,no_vote,0.3412698412698413
+45,7,Community Spend Proposal for Liquidity Funding on JUNOXKI Incentivized Pool,CommunityPoolSpend,REJECTED,19.0,19.0,0.0,10.0,73.0,121.0,no_vote,0.6033057851239669
+46,4,Fixing Centralization From Gamed Stakedrop,CommunityPoolSpend,REJECTED,5.0,26.0,0.0,11.0,78.0,120.0,no_vote,0.65

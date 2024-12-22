@@ -1,0 +1,41 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,253,Lava  Fast  Reliable Public RPC,CommunityPoolSpend,PASSED,42.0,0.0,0.0,4.0,16.0,62.0,yes,0.6774193548387096
+1,241,Regional Moderators Proposal  Axelar Brazilian Portuguese Community October 2024  March 2025,CommunityPoolSpend,REJECTED,7.0,17.0,0.0,17.0,20.0,61.0,no_vote,0.32786885245901637
+2,240,Axelarate Series for Axelar Ecosystem,CommunityPoolSpend,PASSED,36.0,0.0,0.0,10.0,15.0,61.0,yes,0.5901639344262295
+3,239,Regional Moderators Proposal  Axelar Spanish Community October 2024  March 2025,CommunityPoolSpend,PASSED,19.0,5.0,0.0,16.0,19.0,59.0,yes,0.3220338983050847
+4,223,Axelar road to Blockchaincon Onboarding  Hackathon,CommunityPoolSpend,PASSED,22.0,12.0,0.0,14.0,15.0,63.0,yes,0.3492063492063492
+5,222,Revised Axelar Brazilian and Spanish Community  6 Month Continuity and Expansion Plan,CommunityPoolSpend,REJECTED,11.0,21.0,1.0,10.0,18.0,61.0,no,0.3442622950819672
+6,220,Building Organic Buzz for Axelar via CipherClout PR,CommunityPoolSpend,PASSED,19.0,9.0,0.0,19.0,16.0,63.0,yes,0.30158730158730157
+7,219,Axelar regional communities Aug24Jan25,CommunityPoolSpend,PASSED,24.0,1.0,0.0,6.0,29.0,60.0,no_vote,0.48333333333333334
+8,218,Final  Revised Proposal to Revamp and Improve Axelar Network Documentation,CommunityPoolSpend,REJECTED,11.0,21.0,0.0,17.0,14.0,63.0,no,0.3333333333333333
+9,217,Axelar Brazilian and Spanish Community  1 Year Continuity and Expansion Plan,CommunityPoolSpend,REJECTED,8.0,20.0,0.0,7.0,25.0,60.0,no_vote,0.4166666666666667
+10,216,Axelarators Telegram Group and Ecosystem X Account 6Month Program Renewal Proposal,CommunityPoolSpend,PASSED,25.0,5.0,0.0,15.0,18.0,63.0,yes,0.3968253968253968
+11,215,Multichain Nation Podcast Grant Proposal,CommunityPoolSpend,PASSED,21.0,11.0,0.0,18.0,15.0,65.0,yes,0.3230769230769231
+12,213,Axelar Ai Bot  The way to onboarding more users and developers,CommunityPoolSpend,REJECTED,1.0,25.0,0.0,7.0,27.0,60.0,no_vote,0.45
+13,212,KYVE Network Public Good Funding,Text,PASSED,27.0,4.0,0.0,9.0,22.0,62.0,yes,0.43548387096774194
+14,211,Axelarators Telegram Group and Ecosystem X Account 6Month Program Renewal Proposal,CommunityPoolSpend,PASSED,32.0,2.0,0.0,13.0,16.0,63.0,yes,0.5079365079365079
+15,209,Proposal to Revamp and Improve Axelar Network Documentation,CommunityPoolSpend,REJECTED,5.0,29.0,0.0,4.0,23.0,61.0,no,0.47540983606557374
+16,208,Axelar Latam Community  Continuity Plan,CommunityPoolSpend,PASSED,32.0,0.0,0.0,2.0,28.0,62.0,yes,0.5161290322580645
+17,207,BonusBlock Axelar Explorers Program Grant Proposal,CommunityPoolSpend,PASSED,37.0,0.0,0.0,6.0,21.0,64.0,yes,0.578125
+18,206,Interlinked DAO Ecosystem X Proposal,CommunityPoolSpend,PASSED,27.0,7.0,0.0,9.0,20.0,63.0,yes,0.42857142857142855
+19,204,Reliable and scalable public RPC  powered by Lava,CommunityPoolSpend,PASSED,45.0,0.0,0.0,1.0,16.0,62.0,yes,0.7258064516129032
+20,201,Interop Insights Podcast Proposal,CommunityPoolSpend,REJECTED,18.0,20.0,0.0,8.0,17.0,63.0,no,0.31746031746031744
+21,200,Axelar Developer Group Proposal,CommunityPoolSpend,REJECTED,9.0,23.0,0.0,16.0,16.0,64.0,no,0.359375
+22,199,Highlighting the Axelar robot NFT,Text,PASSED,32.0,0.0,0.0,13.0,18.0,63.0,yes,0.5079365079365079
+23,196,Axelarators Community Owned Telegram Group and X Twitter Account Proposal,CommunityPoolSpend,PASSED,29.0,11.0,0.0,20.0,8.0,68.0,yes,0.4264705882352941
+24,194,Axelar Latam in ETH LATAM,CommunityPoolSpend,PASSED,42.0,0.0,0.0,1.0,21.0,64.0,yes,0.65625
+25,193,Axelar regional communities Feb24Jul24,CommunityPoolSpend,PASSED,51.0,0.0,0.0,2.0,13.0,66.0,yes,0.7727272727272727
+26,192,Axelar regional communities Dec23Jan24,CommunityPoolSpend,PASSED,46.0,0.0,0.0,3.0,15.0,64.0,yes,0.71875
+27,191,Axelar India Launch  202324  Phase 2,CommunityPoolSpend,PASSED,53.0,0.0,0.0,1.0,13.0,67.0,yes,0.7910447761194029
+28,190,Axelar regional communities,CommunityPoolSpend,PASSED,47.0,0.0,0.0,2.0,15.0,64.0,yes,0.734375
+29,188,Locking up CAKE as veCAKE to incentivize axlUSDC pairs on PancakeSwap,CommunityPoolSpend,PASSED,47.0,0.0,0.0,0.0,17.0,64.0,yes,0.734375
+30,178,Liquidity Incentives for Kyberswap axlUSDC and axlwstETH pools,CommunityPoolSpend,PASSED,28.0,0.0,0.0,3.0,28.0,59.0,yes,0.4745762711864407
+31,174,Axelar Latam Community,CommunityPoolSpend,PASSED,32.0,0.0,0.0,5.0,25.0,62.0,yes,0.5161290322580645
+32,172,Liquidity Incentives for axlUSDCUSDT on BNB Chain PancakeSwap,CommunityPoolSpend,PASSED,43.0,0.0,0.0,0.0,21.0,64.0,yes,0.671875
+33,171,Lava Network  Decentralized Public RPC for Axelar,CommunityPoolSpend,PASSED,48.0,0.0,0.0,1.0,15.0,64.0,yes,0.75
+34,170,Axelar India Launch  2023,CommunityPoolSpend,PASSED,41.0,0.0,0.0,0.0,22.0,63.0,yes,0.6507936507936508
+35,169,Bringing MetaMask to Axelar  The Rest of the Cosmos,CommunityPoolSpend,REJECTED,19.0,20.0,0.0,0.0,25.0,64.0,no_vote,0.390625
+36,168,Incentives for axlUSDC pools,CommunityPoolSpend,PASSED,29.0,0.0,0.0,0.0,33.0,62.0,no_vote,0.532258064516129
+37,167,Liquidity Incentives for axlUSDCUSDT and AXLUSDT on BSC PancakeSwap,CommunityPoolSpend,PASSED,37.0,0.0,0.0,0.0,25.0,62.0,yes,0.5967741935483871
+38,166,Liquidity Incentives for axlUSDCUSDT and AXLUSDT on BSC PancakeSwap,CommunityPoolSpend,REJECTED,24.0,0.0,0.0,0.0,34.0,58.0,no_vote,0.5862068965517241
+39,29,Fund MapOfZones to support operations,CommunityPoolSpend,PASSED,44.0,0.0,0.0,0.0,19.0,63.0,yes,0.6984126984126984

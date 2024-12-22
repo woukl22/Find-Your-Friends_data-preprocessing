@@ -1,0 +1,31 @@
+,id,title,type,status,yes,no,veto,abstain,no_vote,count,most_vote,most_vote_ratio
+0,292,LimitedTime Token Exchange Between Stargaze and GATA HUB to Boost Decentralization and Liquidity for StarDex,CommunityPoolSpend,PASSED,34.0,3.0,0.0,20.0,61.0,118.0,no_vote,0.5169491525423728
+1,287,Filling GopLend liquidity with community pooling,CommunityPoolSpend,PASSED,47.0,0.0,0.0,13.0,62.0,122.0,no_vote,0.5081967213114754
+2,272,Joint liquidity provisioning for the STARS and NTRN tokens on Astroport on Neutron,CommunityPoolSpend,PASSED,34.0,6.0,0.0,12.0,70.0,122.0,no_vote,0.5737704918032787
+3,270,Lottery Game Smart Contract,Text,REJECTED,6.0,45.0,2.0,9.0,61.0,123.0,no_vote,0.4959349593495935
+4,267,stSTARS  STARS POL for Cosmos DeFi Applications,CommunityPoolSpend,REJECTED,28.0,37.0,3.0,8.0,47.0,123.0,no_vote,0.3821138211382114
+5,265,Stargaze Community Owned Liquid Staking with pSTAKE Finance,CommunityPoolSpend,REJECTED,17.0,44.0,1.0,13.0,48.0,123.0,no_vote,0.3902439024390244
+6,252,A new public RPC experience for Stargaze,CommunityPoolSpend,PASSED,64.0,4.0,0.0,15.0,41.0,124.0,yes,0.5161290322580645
+7,244,Funding Proposal for PLStaking A SoftStaking Platform,CommunityPoolSpend,REJECTED,8.0,61.0,0.0,10.0,44.0,123.0,no,0.4959349593495935
+8,242,STARS Incentives to bootstrap stSTARS Lending And Collateral on Demex,CommunityPoolSpend,PASSED,39.0,19.0,0.0,18.0,47.0,123.0,no_vote,0.3821138211382114
+9,226,Permissionless Smart Contract Deployment,Text,REJECTED,26.0,39.0,2.0,15.0,42.0,124.0,no_vote,0.3387096774193548
+10,223,Bootstrapping the STARS pool on Cosmos Millions,CommunityPoolSpend,REJECTED,21.0,49.0,5.0,21.0,29.0,125.0,no,0.392
+11,213,Stargaze integration with Huddle01,CommunityPoolSpend,REJECTED,5.0,47.0,0.0,25.0,47.0,124.0,no,0.3790322580645161
+12,210,Incentivizing DOTSTARS Pools on the Pablo DEX,CommunityPoolSpend,PASSED,39.0,31.0,0.0,16.0,38.0,124.0,yes,0.31451612903225806
+13,205,NFTHopxyz V1,StoreCode,REJECTED,9.0,48.0,9.0,2.0,55.0,123.0,no_vote,0.44715447154471544
+14,200,MantaDAO  Stargaze token swap,CommunityPoolSpend,PASSED,54.0,4.0,0.0,15.0,51.0,124.0,yes,0.43548387096774194
+15,144,Stargaze Carbon Neutral Proposal,CommunityPoolSpend,PASSED,40.0,11.0,2.0,18.0,52.0,123.0,no_vote,0.42276422764227645
+16,128,Reduce Launchpad Fee to 5,SudoContract,PASSED,39.0,19.0,0.0,8.0,57.0,123.0,no_vote,0.4634146341463415
+17,104,Incentivize STARSUSK farm on BOW for 3 months,CommunityPoolSpend,PASSED,29.0,24.0,0.0,21.0,50.0,124.0,no_vote,0.4032258064516129
+18,101,Appendable NFT Collection,CommunityPoolSpend,PASSED,47.0,10.0,0.0,16.0,50.0,123.0,no_vote,0.4065040650406504
+19,94,Badges v11 Update  Badge Hub,StoreCode,PASSED,49.0,8.0,0.0,15.0,52.0,124.0,no_vote,0.41935483870967744
+20,81,Fund Deployment of Lunar Assistant,CommunityPoolSpend,PASSED,44.0,5.0,0.0,29.0,46.0,124.0,no_vote,0.3709677419354839
+21,59,Raise voting deposit requirement in STARS to 50K,Text,PASSED,64.0,21.0,1.0,10.0,28.0,124.0,yes,0.5161290322580645
+22,58,Ethereum Onboarding Platform,CommunityPoolSpend,REJECTED,17.0,39.0,23.0,11.0,34.0,124.0,no,0.31451612903225806
+23,57,Levana Rekt Dragons Aidrop Proposal,CommunityPoolSpend,PASSED,38.0,17.0,0.0,18.0,50.0,123.0,no_vote,0.4065040650406504
+24,50,Increase the Stargaze active validator set from 120 to 130,ParameterChange,PASSED,43.0,27.0,0.0,19.0,35.0,124.0,yes,0.3467741935483871
+25,35,Development Proposal,CommunityPoolSpend,REJECTED,31.0,26.0,0.0,8.0,58.0,123.0,no_vote,0.4715447154471545
+26,17,Whitelist Contract,StoreCode,REJECTED,37.0,37.0,0.0,1.0,46.0,121.0,no_vote,0.38016528925619836
+27,16,Minter Contract,StoreCode,REJECTED,37.0,37.0,0.0,1.0,46.0,121.0,no_vote,0.38016528925619836
+28,15,SG721 Contract,StoreCode,REJECTED,38.0,37.0,0.0,1.0,45.0,121.0,no_vote,0.371900826446281
+29,11,Increase MaxValidators100 to MaxValidators125,ParameterChange,REJECTED,23.0,63.0,1.0,6.0,31.0,124.0,no,0.5080645161290323
