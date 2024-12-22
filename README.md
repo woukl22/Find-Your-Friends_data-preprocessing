@@ -27,6 +27,6 @@ However, there are many inconveniences in searching for validators, and addition
 - *Project Management*
 - ***Project Design***
 - ***Data Analysis***
-- *Data Preprocessing*
+- **Data Preprocessing**
 - *Design and Front-end Development Assistance*
 - *Presentation*
